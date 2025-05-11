@@ -1,0 +1,42 @@
+{
+    "dishes": [
+      {
+        "id": 1,
+        "name": "Idly",
+        "price": 50,
+        "category": "Breakfast"
+      },
+      {
+        "id": 2,
+        "name": "Dosa",
+        "price": 70,
+        "category": "Breakfast"
+      },
+      {
+        "id": 3,
+        "name": "Biryani",
+        "price": 200,
+        "category": "Lunch"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949
+      },
+      {
+        "id": 3,
+        "title": "Brida",
+        "author": "Paulo Coelho",
+        "year": 1990
+      }
+    ]
+  }
